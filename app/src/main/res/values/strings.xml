@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Quake Seeker</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="recent_tab">Recent</string>
+    <string name="how_tab">How</string>
+    <string name="what_tab">What</string>
+    <string name="refresh_menu_option">Refresh</string>
+    <string name="follow_on_quora_menu_option">Follow on quora</string>
+
+    <!-- Text to display in the list when there are no earthquakes [CHAR LIMIT=NONE] -->
+    <string name="no_earthquakes">No earthquakes found.</string>
+    <string name="no_internet_connection">No network connection.</string>
+
+    <string name="near_the">Near the</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="tip_table">Take cover under a strong table or any other piece of furniture and stay put until the shaking stops. Search for a corner in your house.</string>
+    <string name="tip_window">Stay away from glass, window doors, walls and any other weak structure that may fall.</string>
+    <string name="tip_head_protec">Protect your head and neck from falling debris. If possible, grab a pillow, sofa cushion, or another object to shield your face and head.</string>
+    <string name="tip_stayaway">Get away from glass, large furniture, and other hazards, if possible. In the first few seconds after the shaking starts, try to quickly move away from anything that could fall and injure you.</string>
+    <string name="tip_evacuate">Follow instructions of emergency personnel if in a public building. They may provide you additional things that you need to do to protect your lives.</string>
+    <string name="tip_gas">Turn off cooking appliances if it is safe to do so before taking cover. These appliances can potentially start a fire if left unattended.</string>
+    <string name="tip_hazards">Inspect the building for structural damage and hazards. Check for cracks in the building\'s structure, fires, the smell of gas, and damaged wires or electrical appliances.</string>
+    <string name="tip_streetlight">Move away from buildings, street lights, power lines, and bridges. The most dangerous locations during an earthquake are areas immediately around buildings.</string>
+    <string name="tip_turnoffgas">Learn how to shut off the water, the electricity, and the gas. Earthquakes can damage utilities and cause flooding, fires, or explosions.</string>
+    <string name="what_to_do_during_an_earthquake">What to do during an Earthquake?</string>
+    <string name="recent_earthquakes_across_india">Recent Earthquakes across India</string>
+
+    <string name="how_earthquakes_happens">How an Earthquake happens</string>
+
+    <!--Following strings are for the cause of earthquake-->
+
+    <string name="eq1">Earthquakes are a sudden and quick shock of the Earth’s surface.</string>
+    <string name="eq2">Earthquakes are actually a type of way that the Earth gets rid of some tension, just like you and I do, except we don’t rock the world.\n\nWow, this is quite something. More than a million earthquakes happen on Earth every single year.\n\nSurprisingly they normally last for less than a minute, but can sure cause some damage.\n\nWouldn’t it be great if some brainy scientists created some sort of warning system that earthquakes were coming? Well, they can’t unfortunately.\n\nBut who knows what the future might bring. If we knew they were coming we could prepare for them and they wouldn’t cause as much chaos.</string>
+    <string name="what_causes_heading">What causes an Earthquake?</string>
+    <string name="eq5">There are things called plates that run along the surface of the Earth. They are always moving about and pushing into each other.\n\nThis is a very slow process, but they do like to bump into each other a bit.\n\nWhen they are moving around, sometimes they get squeezed or stretched. When this happens rocks form around the edges.\n\nThe rocks then move with humongous force and when this happens, we get an earthquake.</string>
+    <string name="eq6">When that force is big enough, the crust of the Earth literally breaks. When this break happens, that massive energy moves through the Earth. It’s almost like waves, but obviously a lot bigger. That is exactly what an earthquake is.</string>
+    <string name="fault_line_heading">What is a fault line?</string>
+    <string name="eq7">Earthquakes are formed along fault lines. This is an area of stress in the Earth. At fault lines the rocks are sliding past each other and will eventually cause a crack in the Earth’s surface.</string>
+    <string name="seismograph_heading">What is a seismograph?</string>
+    <string name="eq8">A seismograph is a machine that is used to measure the strength and the length of an earthquake.</string>
+    <string name="richter_scale_heading">What is Richter Scale?</string>
+    <string name="eq9">A Richter scale measures the strength of an earthquake. Each one-point increase on the scale indicates ten times the amount of shaking and 33 times the amount of energy.\n\nThe energy released by a large earthquake may be equal to 10,000 times the energy of the first atomic bomb. Wow, that’s unbelievable!\n\nThe most powerful earthquake ever recorded on Earth was in Valdivia, Chile.\n\nIt happened in 1960, and measured 9.5 on the Richter scale. That is one extremely massive earthquake!</string>
+    <string name="what_is_an_earthquake_heading">What is an Earthquake?</string>
+
+    <string name="image_description">image</string>
+
+    <string name="felt_by_people">Felt by :</string>
+
+    <!--Banner ads-->
+    <string name="banner_ad_1">ca-app-pub-5774660261058771/5000607363</string>
+    <string name="banner_ad_2">ca-app-pub-5774660261058771/8365422718</string>
+    <string name="banner_ad_3">ca-app-pub-5774660261058771/6122117349</string>
+    <string name="banner_ad_4">ca-app-pub-5774660261058771/4077751391</string>
+
+    <!--Interstitial ads-->
+    <string name="interstitial_ad_1">ca-app-pub-5774660261058771/1608442677</string>
+    <string name="interstitial_ad_2">ca-app-pub-5774660261058771/1416870989</string>
+    <string name="interstitial_ad_3">ca-app-pub-5774660261058771/3150972095</string>
+
+    <string name="app_ad_id_mine">ca-app-pub-5774660261058771~3879097383</string>
+    <string name="copy_url">Copy url</string>
+    <string name="open_in_browser">Open in browser</string>
+
+    <string name="banner_test">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstitial_test">ca-app-pub-3940256099942544/1033173712</string>
+</resources>
