@@ -4,7 +4,7 @@ An educational app that will help you to plan your next trip!
 
 ### Earthquake Prone Regions Finder
 
-This app displays information about recent earthquake occured in and around India:
+This app displays information about recent earthquakes occured in and around India:
 * Magnitude of the earthquake
 * Location of the earthquake
 * Date and time of occurance
