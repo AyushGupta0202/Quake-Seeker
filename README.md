@@ -7,7 +7,7 @@ An educational app that will help you to plan your next trip!
 This app displays information about recent earthquakes occurred in and around India:
 * Magnitude of the earthquake
 * Location of the earthquake
-* Date and time of occurance
+* Date and time of occurrence
 * Number of people who felt the earthquake
 * Why does an earthquake occur?
 * What to do in case of an emergency?
